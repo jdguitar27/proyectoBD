@@ -1,0 +1,13 @@
+DELETE FROM Software_Cajeros;
+DELETE FROM Reporte_Entrega;
+DELETE FROM Destino;
+DELETE FROM Infografia;
+DELETE FROM Agenda_Transmision;
+DELETE FROM Transmision;
+DELETE FROM Establecida_Marco_Legal;
+DELETE FROM Publicacion;
+DELETE FROM Red_Social
+DELETE FROM Atributo_Seguridad;
+DELETE FROM Elemento_Seguridad;
+DELETE FROM Elemento_Circulacion;
+DELETE FROM Divisa;
